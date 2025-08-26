@@ -1,2 +1,2 @@
-# Laboratórios-MC202-Estrututa-de-Dados
+# Labs-MC202
 Repositório de laboratórios da disciplina Estruturas de Dados - UNICAMP
